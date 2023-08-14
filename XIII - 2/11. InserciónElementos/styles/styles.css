@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.seccion3{
+    background-color: violet;
+}
+.seccion2{
+    background-color: green;
+}
+.seccion1{
+    background-color: aquamarine;
+}
